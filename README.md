@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Bharat Kamraj Janbandhu</h1>
 <h3 align="center">A Passionate Software Developer</h3>
-<img align="right" alt "coding" width="400" src="G:\VIIT\GitHub readme\ThatCanineHorse-mobile.gif">
+<img align="right" alt "coding" width="400" src="[G:\VIIT\GitHub readme\ThatCanineHorse-mobile.gif](https://github.com/bharatjanbandhu/bharatjanbandhu/blob/main/ThatCanineHorse-mobile.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatjanbandhu&label=Profile%20views&color=0e75b6&style=flat" alt="bharatjanbandhu" /> </p>
 
