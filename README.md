@@ -10,20 +10,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatjanbandhu&label=Profile%20views&color=0e75b6&style=flat" alt="bharatjanbandhu" /> </p>
 
-- 🔭 I’m currently working on **AWS**
+- 🔭 I’m currently working on **Aarohiinfo Information Technology Pvt.LTD**
 
 - 🌱 I’m currently learning **DSA,DevOps,Microservices**
 
-- 💬 Ask me about **Core Java,Html&Css,J2EE,SQL,Javascript**
+- 💬 Ask me about **Core Java,Html&Css,J2EE,SQL,Javascript, Angular**
 
 - 📫 How to reach me **bharatjanbandhu623@gmail.com**
 
-- 📄 Know about my experiences [I'm Looking for Software Developer Position 
+- 📄 Know about my experiences [I'm Looking for a Software Developer Position 
 I have completed my BCA from G. H. Raisoni Institute of Information Technology, Nagpur
 and completed my MCA from Vidya Pratishthan's Institute of Information Technology, Baramati, and was the CR of the MCA department.
 
 I have gained technical knowledge in Core Java, Advance Java, HTML and CSS, JavaScript, MySQL and PL/SQL during my 6-7 months of training at QSpiders Training Institute.](I have also completed an internship at Teachnook as an AWS Intern where I gained basic knowledge of EC2 instances, S3Bucket, AWS-Services(Hosting website), AWS Lambda and other cloud computing technologies. 
-I am passionate about technology and love learning new technologies. I am an immediate joiner and eager to enhance and explore my technical knowledge in any technology.)
+I am passionate about technology and love learning new technologies. I am an immediate joiner eager to enhance and explore my technical knowledge in any technology.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
